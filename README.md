@@ -41,7 +41,7 @@ We encourage you to contribute to this repository by adding more C programs and 
    Open a pull request on the original repository. Provide a descriptive title and explain the purpose of your contribution.
 
 8. **Review and Merge:**
-   Your pull request will be reviewed by the maintainers. Once approved, it will be merged into the main repository.
+   Your pull request will be reviewed by the maintainers. Once approved, it will be merged into the main repository....
 
 ## Disclaimer
 
