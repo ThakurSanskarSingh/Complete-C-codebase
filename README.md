@@ -42,6 +42,12 @@ We encourage you to contribute to this repository by adding more C programs and 
 
 8. **Review and Merge:**
    Your pull request will be reviewed by the maintainers. Once approved, it will be merged into the main repository....
+   ## Guidelines for Contributions
+
+- Ensure that your programs/questions are well-commented for clarity.
+- Follow a consistent coding style to maintain readability.
+- Create a new folder or use existing ones to organize contributions based on topics (e.g., arrays, loops, functions).
+- Provide a brief description or comment for each program/question explaining its purpose or concept.
 
 ## Disclaimer
 
